@@ -49,7 +49,6 @@ dimwishlist:item=45&perks=1608112177,1068909436
 dimwishlist:item=45&perks=942541111,901125364
 
 
-
 //-----Gauntlets-----
 
 //Impact Induction or Enhanced Impact Induction and all of the Scavengers except sword
@@ -68,6 +67,7 @@ dimwishlist:item=46&perks=1463486301,866518141
 dimwishlist:item=46&perks=3938115510,3054567270
 dimwishlist:item=46&perks=1463486301,3054567270
 
+
 //-----Chest-----
 
 //Unflinching Rifle Aim, Unflinching Light Arms Aim, Unflinching Machine Gun, or Unflinching Grenade Launcher Aim and Primary Ammo Finder or Special Ammo Finder
@@ -79,6 +79,7 @@ dimwishlist:item=47&perks=3676627761,143442373
 dimwishlist:item=47&perks=2825949957,143442373
 dimwishlist:item=47&perks=1772682177,143442373
 dimwishlist:item=47&perks=430361065,143442373
+
 
 //-----Legs-----
 
@@ -97,6 +98,7 @@ dimwishlist:item=48&perks=737144025,143442373
 dimwishlist:item=48&perks=4048902980,143442373
 dimwishlist:item=48&perks=2972736610,143442373
 dimwishlist:item=48&perks=2610215900,143442373
+
 
 //-----Class Item-----
 
