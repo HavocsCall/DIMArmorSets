@@ -48,6 +48,14 @@ dimwishlist:item=45&perks=1608112177,1068909436
 //Machine Gun Reserves and Machine Gun Targeting
 dimwishlist:item=45&perks=942541111,901125364
 
+//Machine Gun Reserves and Pump Action, Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
+dimwishlist:item=45&perks=1107740237,901125364
+dimwishlist:item=45&perks=2042848612,901125364
+dimwishlist:item=45&perks=1567314459,901125364
+dimwishlist:item=45&perks=2910842650,901125364
+dimwishlist:item=45&perks=433323503,901125364
+dimwishlist:item=45&perks=1608112177,901125364
+
 
 //-----Gauntlets-----
 
@@ -66,6 +74,77 @@ dimwishlist:item=46&perks=3938115510,866518141
 dimwishlist:item=46&perks=1463486301,866518141
 dimwishlist:item=46&perks=3938115510,3054567270
 dimwishlist:item=46&perks=1463486301,3054567270
+
+//Rifle Loader, Light Arms Loader, Large Weapon Loader
+//Enhanced Weapon Loaders(Hand Cannon, Shotgun, Grenade Launcher, Rocket Launcher) 
+//Momentum Transfer or Enhanced Momentum Transfer
+//and all of the Scavengers except sword
+dimwishlist:item=46&perks=2111651017,790090923
+dimwishlist:item=46&perks=1572280253,790090923
+dimwishlist:item=46&perks=1068982181,790090923
+dimwishlist:item=46&perks=3035639340,790090923
+dimwishlist:item=46&perks=994729458,790090923
+dimwishlist:item=46&perks=2433229738,790090923
+dimwishlist:item=46&perks=3856768043,790090923
+dimwishlist:item=46&perks=320680844,790090923
+dimwishlist:item=46&perks=2344113285,790090923
+dimwishlist:item=46&perks=2111651017,2600330634
+dimwishlist:item=46&perks=1572280253,2600330634
+dimwishlist:item=46&perks=1068982181,2600330634
+dimwishlist:item=46&perks=3035639340,2600330634
+dimwishlist:item=46&perks=994729458,2600330634
+dimwishlist:item=46&perks=2433229738,2600330634
+dimwishlist:item=46&perks=3856768043,2600330634
+dimwishlist:item=46&perks=320680844,2600330634
+dimwishlist:item=46&perks=2344113285,2600330634
+dimwishlist:item=46&perks=2111651017,1066067378
+dimwishlist:item=46&perks=1572280253,1066067378
+dimwishlist:item=46&perks=1068982181,1066067378
+dimwishlist:item=46&perks=3035639340,1066067378
+dimwishlist:item=46&perks=994729458,1066067378
+dimwishlist:item=46&perks=2433229738,1066067378
+dimwishlist:item=46&perks=3856768043,1066067378
+dimwishlist:item=46&perks=320680844,1066067378
+dimwishlist:item=46&perks=2344113285,1066067378
+dimwishlist:item=46&perks=2111651017,4245438319
+dimwishlist:item=46&perks=1572280253,4245438319
+dimwishlist:item=46&perks=1068982181,4245438319
+dimwishlist:item=46&perks=3035639340,4245438319
+dimwishlist:item=46&perks=994729458,4245438319
+dimwishlist:item=46&perks=2433229738,4245438319
+dimwishlist:item=46&perks=3856768043,4245438319
+dimwishlist:item=46&perks=320680844,4245438319
+dimwishlist:item=46&perks=2344113285,4245438319
+dimwishlist:item=46&perks=2111651017,127731051
+dimwishlist:item=46&perks=1572280253,127731051
+dimwishlist:item=46&perks=1068982181,127731051
+dimwishlist:item=46&perks=3035639340,127731051
+dimwishlist:item=46&perks=994729458,127731051
+dimwishlist:item=46&perks=2433229738,127731051
+dimwishlist:item=46&perks=3856768043,127731051
+dimwishlist:item=46&perks=320680844,127731051
+dimwishlist:item=46&perks=2344113285,127731051
+dimwishlist:item=46&perks=2111651017,866518141
+dimwishlist:item=46&perks=1572280253,866518141
+dimwishlist:item=46&perks=1068982181,866518141
+dimwishlist:item=46&perks=3035639340,866518141
+dimwishlist:item=46&perks=994729458,866518141
+dimwishlist:item=46&perks=2433229738,866518141
+dimwishlist:item=46&perks=3856768043,866518141
+dimwishlist:item=46&perks=320680844,866518141
+dimwishlist:item=46&perks=2344113285,866518141
+dimwishlist:item=46&perks=2111651017,3054567270
+dimwishlist:item=46&perks=1572280253,3054567270
+dimwishlist:item=46&perks=1068982181,3054567270
+dimwishlist:item=46&perks=3035639340,3054567270
+dimwishlist:item=46&perks=994729458,3054567270
+dimwishlist:item=46&perks=2433229738,3054567270
+dimwishlist:item=46&perks=3856768043,3054567270
+dimwishlist:item=46&perks=320680844,3054567270
+dimwishlist:item=46&perks=2344113285,3054567270
+
+//Machine Gun Loader and Machine Gun Scavenger
+dimwishlist:item=46&perks=4070193907,790090923
 
 
 //-----Chest-----
